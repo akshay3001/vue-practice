@@ -17,7 +17,7 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
     </ul>
   </div> -->
-  <h1>Hello, This is Vuejs 2.x in action</h1>
+  <h1>Hello, This is Vuejs 2.x in action!</h1>
 </template>
 
 <script>
